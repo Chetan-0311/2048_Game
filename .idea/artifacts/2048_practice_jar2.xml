@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="2048 practice:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/2048_practice_jar2</output-path>
+    <root id="archive" name="2048 practice.jar">
+      <element id="module-output" name="2048 practice" />
+    </root>
+  </artifact>
+</component>
